@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 /**
  * swap - function
  * @a: element to be swapped
